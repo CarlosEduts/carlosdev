@@ -1,0 +1,35 @@
+{
+  "Header": {
+    "language": "Idioma",
+    "theme": "Tema"
+  },
+  "Main": {
+    "title": "Olá, eu sou Carlos Eduardo.",
+    "subtitle": "Sou um desenvolvedor Front-end, focando na criação de interfaces atraentes e funcionais.",
+    "about-me-title": "Sobre mim",
+    "about-me-content": "Eu sou Carlos Eduardo e comecei a programar aos 14 anos. Gosto de acompanhar as últimas tendências e tecnologias para aprimorar os projetos em que trabalho. Estou sempre aprendendo e buscando novos desafios, o que mantém meu entusiasmo pela programação.",
+    "skills-title": "Minhas habilidades",
+    "skills-content": "JavaScript, React.js, Next.js, TypeScript, Design responsivo, Design intuitivo.",
+    "more-about-me-title": "Explore Mais Sobre Mim",
+    "more-about-me-content-start": "Sinta-se à vontade para dar uma olhada no meu",
+    "cv": "Currículo",
+    "more-about-me-content-end": "ou conhecer mais sobre o que faço e penso no meu blog,"
+  },
+  "Projects": {
+    "title": "Projetos",
+    "deploy-button": "Deploy",
+    "code-button": "Código-fonte",
+
+    "project-DevKiit": {
+      "name": "DevKiit",
+      "description": "DevKiit é um conjunto de ferramentas para desenvolvedores e usuários em geral.",
+      "tecnologies": "Next.js, TypeScript, TailwindCSS, next-intl e Prettier."
+    },
+
+    "project-Cosmic-Invasion": {
+      "name": "Cosmic Invasion",
+      "description": "Cosmic Invasion é um jogo 2D de nave espacial onde o objetivo é derrotar os aliens antes que o tempo se esgote.",
+      "tecnologies": "Node.js, JavaScript, HTML, CSS, Express.js e Socket.io."
+    }
+  }
+}
